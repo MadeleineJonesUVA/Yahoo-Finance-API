@@ -1,0 +1,2 @@
+# Yahoo Finance API Script
+In the terminal, call the python script using its file path and enter the NASDAQ symbol for the company of interest as a command line argument.  The script will then return the name of the NASDAQ company and its current market price at the current market time.  It will also store the NASDAQ symbol, current market price, and current market time in a CSV file each time the script is called.
